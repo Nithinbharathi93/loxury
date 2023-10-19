@@ -1525,7 +1525,7 @@ p.large_1 {
 .product_blog {
     background: #eaeaea;
     padding: 25px;
-    transition: all 200ms ease 0s;
+    transition: all 300ms ease 0s;
     border-radius: 15px;
 }
 
@@ -1535,7 +1535,7 @@ p.large_1 {
 .product_blog:hover {
     -webkit-filter: invert(1);
     filter: invert(1);
-    transition: all 200ms ease 0s;
+    transition: all 300ms ease 0s;
 }
 
 .product_blog h3 {
